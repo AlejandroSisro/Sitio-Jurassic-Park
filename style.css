@@ -9,7 +9,7 @@ h2
 {
     color:#009adc;
     font-size: 35px;
-    margin: 1.5%;
+    margin: -0.5%;
 }
 h3
 {
@@ -64,4 +64,10 @@ div img
     margin:0%;
     display:0%;
     width: 60%;
+}
+li
+{
+    font-size: 25px;
+    color:white;
+    margin: 1%;
 }
